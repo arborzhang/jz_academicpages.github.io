@@ -11,30 +11,46 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Master of Medicine, Fudan University, 2011
+* Master of Public Health, Brown University, 2016
+* Ph.D, Aarhus University, 2024
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Postdocral Reseach Fellow, 2023-Present
+  * Aarhus University, Denmark
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* Research Assistant, 2022-2023
+  * Aarhus University, Denmark
+
+* Visiting Researcher, 2021-2022
+  * MRC Integrative Epidemology Unit at University of Bristol, UK
+ 
+* Visiting Researcher, 2019
+  * Danish Cancer Society, Denmark
+ 
+* Research Analyst, 2016-2019
+  * DeltaQuest Foundation, USA
+ 
+* Advanced Product Responsibility Liaison, 2011-2014
+  * 3M, China
+ 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Longitudinal studies
+  * Mixed-effect models 
+  * Latent class trajectories 
+
+* Causal inference 
+  * Mediation studies
+  * Medelian Randomization studies 
+
+* Proficient in R and Stata. Trained in MLwin, SAS, and MPLUS
+
+Certification
+======
+* SAS Certified Advanced Programmer
+
 
 Publications
 ======
@@ -53,7 +69,3 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
