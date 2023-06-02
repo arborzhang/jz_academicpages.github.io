@@ -1,14 +1,13 @@
 ---
 title: "Teaching experience 2"
 collection: teaching
-type: "Workshop"
+type: "Master and PhD course"
 permalink: /teaching/2015-spring-teaching-1
 venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+date: 2021 Fall
+location: "Aarhus, Denmark"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
+Nutritional Epidemiology
 
 Heading 1
 ======
